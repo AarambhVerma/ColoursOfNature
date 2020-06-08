@@ -1,6 +1,10 @@
+html{
+  scroll-behaviour: smooth;
+}
+
 body{
   font-family: 'Open Sans', sans-serif;
-  scroll-behavior: smooth;
+/*   scroll-behavior: smooth; */
 }
 h1{
   font-family: 'Montserrat', sans-serif;
